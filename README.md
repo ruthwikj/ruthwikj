@@ -1,5 +1,6 @@
 ## Hi there, I'm Ruthwik 👋
 - 🎓 CS student @ UCI
+- 🌱 I’m currently learning ML
 <!--
 **ruthwikj/ruthwikj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
